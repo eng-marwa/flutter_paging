@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <color name="bgColor">#F2F2F2</color>
+    <color name="primaryColor">#110E47</color>
+    <color name="strokeColor">#AAA9B1</color>
+    <color name="shapeBgColor">#E5E4EA</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="blackColor">#000000</color>
+    <color name="ratingColor">#9C9C9C</color>
+    <color name="tagBgColor">#DBE3FF</color>
+    <color name="tagTextColor">#88A4E8</color>
+    <color name="errorTextColor">#FF0000</color>
+</resources>
